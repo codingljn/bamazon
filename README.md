@@ -12,7 +12,7 @@ App description:
 
 2) A Node application called bamazonCustomer.js was created. The application will display a table of all available items
 
-![Screenshot](products_db.png)
+![Screenshot](/images/products_db.png)
 
 The user will then select an item
 
