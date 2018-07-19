@@ -18,7 +18,7 @@ Bamazon will take in orders from customers and deplete stock from the store's in
 
 ![Screenshot](/images/prodselect.png)
 
-as well as a quantity. The app will then calculate a total bill for the item purchased and ask the user if they would like to continue purchasing items.
+## as well as a quantity. The app will then calculate a total bill for the item purchased and ask the user if they would like to continue purchasing items.
 
 ![Screenshot](/images/prodquant.png)
 
